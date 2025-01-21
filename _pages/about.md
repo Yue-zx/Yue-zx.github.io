@@ -17,8 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 📖 About me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👨‍💻 About me
+- Yue Zhixu, currently studying Automation at Southwest University in Chongqing.
+- Proficient in programming languages such as C, Python, Matlab, and PLC; Utilize systems and software like Linux, ROS/ROS2, Isaac Sim, Multisim, Keil5, and SolidWorks; Work proficiently with microcontrollers and various sensors; Use Office, Photoshop, and Premiere Pro with ease.
+- A diligent and proactive individual with a strong passion for exploration, innovation, and scientific research.
+- Research interests focus on embodied intelligence, reinforcement learning, and artificial intelligence, with a commitment to pursuing related projects and aiming to publish articles.
+- The primary undergraduate goal is to secure a recommendation-based graduate program, with a secondary goal of applying for studying abroad.
+- Feel free to connect if interested in collaborating or discussing my work.
 
 # 📖 Educations
 - *2023.09 - now*  
