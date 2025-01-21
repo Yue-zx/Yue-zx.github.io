@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhixu Yue - Homepage"
+title                    : "Zhixu Yue"
 description              : "Welcome to my personal homepage. Here you can learn more about me and my academic work. Feel free to explore."
 repository               : "Yue-zx.github.io"
 ## google_scholar_stats_use_cdn : true
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Yue-zx"
+  github           : "Yue-zx"
   google_plus      :
   keybase          :
   instagram        :
