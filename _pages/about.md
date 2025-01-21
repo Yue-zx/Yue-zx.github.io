@@ -21,13 +21,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 
 # 📖 Educations
-- *2019.06 - now*
-  Southwest University, Chongqing
+- *2019.06 - now*  
+  Southwest University, Chongqing  
   School of Computer and Information Science School of Software, Department of Automation
-  - GPA: 87.04/100 & 4.0/5.0
-  - Academic Ranking: 4/99
+  - GPA: 87.04/100 or 4.0/5.0
+  - Academic Ranking: 4/99  
     Overall Evaluation: 1/99
-  - Core Courses:
+  - Core Courses:  
     Linear Algebra (97); Fundamentals of Circuits (96); Analog Circuits (94); Complex Functions and Integral Transforms (93); Data Structures and Algorithms (83)
 
 # 💻 Experience
