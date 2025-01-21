@@ -23,7 +23,7 @@ redirect_from:
 - A diligent and proactive individual with a strong passion for exploration, innovation, and scientific research.
 - Research interests focus on embodied intelligence, reinforcement learning, and artificial intelligence, with a commitment to pursuing related projects and aiming to publish articles.
 - The primary undergraduate goal is to secure a recommendation-based graduate program, with a secondary goal of applying for studying abroad.
-- Feel free to connect if interested in collaborating or discussing my work.
+- Feel free to connect if interested in my work.
 
 # 📖 Educations
 - *2023.09 - now*  
