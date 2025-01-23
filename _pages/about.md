@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Chess-playing device</div><img src='images/experience2-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  - *2024.7 - 2024.8*  
+  - *2024.07 - 2024.08*  
   **Research on Southwest University, Chongqing**
   *Project leader*  
   **Project name:** Design and Production of a Tic-Tac-Toe Game Human-Computer Interaction Device
