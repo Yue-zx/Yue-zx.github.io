@@ -44,17 +44,7 @@ redirect_from:
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Chess-playing device</div>
-      <video loop autoplay>
-        <source src="images/experience2-1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-  </div>
-</div>
-</div></div>
+<div class='paper-box-image'><div><div class="badge">UAV</div><img src='images/experience2-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   - *2024.07 - 2024.08*  
   **Research on Southwest University, Chongqing**
