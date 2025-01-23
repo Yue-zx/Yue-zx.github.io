@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box-image'><div><div class="badge">UAV</div><img src='images/experience1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   - *2024.06 - 2024.09*  
-  **Research on Chongqing Zhongke Automotive Software Innovation Center, Chongqing**
+  **Research on Chongqing Zhongke Automotive Software Innovation Center, Chongqing**  
   *Project leader*  
   **Project name:** Indoor Localization of Quadrotor UAV Based on Visual SLAM
   - Assembled the drone by soldering and integrating hardware components such as Pixhawk 4 flight controller and Jetson Orin NX onboard computer; flashed PX4 firmware onto the flight controller, tuned PID parameters, and conducted takeoff testing.
@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Chess-playing device</div><img src='images/experience2-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  - *Jul.2024 - Aug.2024*  
+  - *2024.7 - 2024.8*  
   **Research on Southwest University, Chongqing**
   *Project leader*  
   **Project name:** Design and Production of a Tic-Tac-Toe Game Human-Computer Interaction Device
