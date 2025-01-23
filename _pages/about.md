@@ -33,7 +33,7 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">UAV</div><img src='images/experience1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  - *2024.06 - 2024.09*  
+  - *2024.06 - 2024.08*  
   **Research on Chongqing Zhongke Automotive Software Innovation Center, Chongqing**  
   *Project leader*  
   **Project name:** Indoor Localization of Quadrotor UAV Based on Visual SLAM
