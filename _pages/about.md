@@ -20,6 +20,7 @@ redirect_from:
 # 👨‍💻 About me
 - Research interests focus on embodied intelligence, reinforcement learning, and artificial intelligence, with a commitment to pursuing related projects and aiming to publish articles.
 - Feel free to connect if interested in my work.
+- Here is my [**Resume**](file/Resume_Zhixu%20Yue.pdf).
 
 # 📖 Educations
 - *2023.09 - now*  
