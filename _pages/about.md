@@ -18,11 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About me
-- Yue Zhixu, currently studying Automation at Southwest University in Chongqing.
-- Proficient in programming languages such as C, Python, Matlab, and PLC; Utilize systems and software like Linux, ROS/ROS2, Isaac Sim, Multisim, Keil5, and SolidWorks; Work proficiently with microcontrollers and various sensors; Use Office, Photoshop, and Premiere Pro with ease.
-- A diligent and proactive individual with a strong passion for exploration, innovation, and scientific research.
 - Research interests focus on embodied intelligence, reinforcement learning, and artificial intelligence, with a commitment to pursuing related projects and aiming to publish articles.
-- The primary undergraduate goal is to secure a recommendation-based graduate program, with a secondary goal of applying for studying abroad.
 - Feel free to connect if interested in my work.
 
 # 📖 Educations
@@ -30,10 +26,7 @@ redirect_from:
   **Southwest University, Chongqing**  
   School of Computer and Information Science School of Software, Department of Automation
   - GPA: 87.04/100 or 4.0/5.0
-  - Academic Ranking: 4/99  
-    Overall Evaluation: 1/99
-  - Core Courses:  
-    Linear Algebra (97); Fundamentals of Circuits (96); Analog Circuits (94); Complex Functions and Integral Transforms (93); Data Structures and Algorithms (83)
+  - Ranking: 1/99
 
 # 💻 Experience
 - *2024.06 - 2024.09*  
