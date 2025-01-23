@@ -30,33 +30,31 @@ redirect_from:
   - Ranking: 1/99
 
 # 💻 Experience
-<div style="display: flex; align-items: flex-start;">
-  <!-- 图片部分（左侧，竖直并排两张图片） -->
-  <div style="display: flex; flex-direction: column; width: 45%; margin-right: 20px;">
-    <div style="margin-bottom: 10px;">
-      <img src='images/experience1-1.png' alt="Image 1" width="100%" style="border-radius: 8px;">
-    </div>
-    <div>
-      <img src='images/experience1-2.png' alt="Image 2" width="100%" style="border-radius: 8px;">
-    </div>
-  </div>
-
-  <!-- 文本部分（右侧） -->
-  <div style="width: 50%;">
-    <div class='paper-box-text' markdown="1">
-      - *2024.06 - 2024.09*  
-      **Research on Chongqing Zhongke Automotive Software Innovation Center, Chongqing**  
-      *Project leader*  
-      **Project name:** Indoor Localization of Quadrotor UAV Based on Visual SLAM
-      <ul>
-        <li>Assembled the drone by soldering and integrating hardware components such as Pixhawk 4 flight controller and Jetson Orin NX onboard computer; flashed PX4 firmware onto the flight controller, tuned PID parameters, and conducted takeoff testing.</li>
-        <li>Deployed the ORB-SLAM algorithm on the onboard computer and performed debugging and adaptation using the official dataset.</li>
-        <li>Remotely controlled the drone's flight and used the ROS2 system to interface with the depth camera. Applied the ORB_SLAM algorithm to perform sparse 3D reconstruction of the surrounding environment, and used Octomap tools and PCL algorithms to convert the point cloud into a 3D map.</li>
-      </ul>
-    </div>
-  </div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">UAV</div><img src='images/experience1-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  - *2024.06 - 2024.09*  
+  **Research on Chongqing Zhongke Automotive Software Innovation Center, Chongqing**
+  *Project leader*  
+  **Project name:** Indoor Localization of Quadrotor UAV Based on Visual SLAM
+  - Assembled the drone by soldering and integrating hardware components such as Pixhawk 4 flight controller and Jetson Orin NX onboard computer; flashed PX4 firmware onto the flight controller, tuned PID parameters, and conducted takeoff testing.
+  - Deployed the ORB-SLAM algorithm on the onboard computer and performed debugging and adaptation using the official dataset.
+  - Remotely controlled the drone's flight and used the ROS2 system to interface with the depth camera. Applied the ORB_SLAM algorithm to perform sparse 3D reconstruction of the surrounding environment, and used Octomap tools and PCL algorithms to convert the point cloud into a 3D map.
+</div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Chess-playing device</div><img src='images/experience2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  - *Jul.2024 - Aug.2024*  
+  **Research on Southwest University, Chongqing**
+  *Project leader*  
+  **Project name:** Design and Production of a Tic-Tac-Toe Game Human-Computer Interaction Device
+  - Used Stm32f1c8t6 microcontroller as the main control module, deployed Tic-Tac-Toe game algorithm, controlled the movement direction and distance of the robotic arm, and communicated with the vision module.
+  - Assembled a three-axis robotic arm using TB6600 motor driver, HGX28 stepper motor, and electromagnetic module; controlled by the main control module to grab and move the game pieces.
+  - Used Openmv as the vision module, programmed and debugged threshold values to real-time recognize the positions of black and white game pieces, and communicated with the microcontroller via serial port.
+</div>
+</div>
   
 # 🎖 Honors and Awards
 - *2024.10*, **National Scholarship** (¥10000, Top1%) 
