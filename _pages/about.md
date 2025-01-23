@@ -45,5 +45,5 @@ redirect_from:
 - *2024.08*, **Second Prize** of TI Cup Chongqing College Student Electronic Design Competition
 - *2024.08*, **First Prize** of Digital and Physical Integration Intelligent Algorithm Challenge
 
-<br><br><br>
-- *This website is adapted from the open-source template by [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).*
+<br>
+*This website is adapted from the open-source template by [RayeRen](https://github.com/RayeRen/acad-homepage.github.io).*
