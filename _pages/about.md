@@ -26,8 +26,8 @@ redirect_from:
 - *2023.09 - now*  
   **Southwest University, Chongqing**  
   School of Computer and Information Science School of Software, Department of Automation
-  - GPA: 87.04/100 or 4.0/5.0
-  - Ranking: 1/99
+  - GPA: 89.4/100 or 4.1/5.0
+  - Ranking: 1/98
 
 # 💻 Experience
 <div class='paper-box'>
