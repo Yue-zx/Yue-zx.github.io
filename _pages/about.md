@@ -31,6 +31,19 @@ redirect_from:
 
 # 💻 Experience
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">dance demo</div><video width="100%" playsinline autoplay loop muted><source src="images/experience3.mp4" type="video/mp4"></video></div></div>
+<div class='paper-box-text' markdown="1">
+  - *2024.08 - now*  
+  **Research at Sun Yat-sen University**  
+  *Research Assistant, Advisor: Prof. Ruimao Zhang*  
+  **Project name:** Whole-body Control for Humanoid Robots based on Visual Imitation Learning
+  - Extracted 3D human meshes from monocular human dance videos based on the GVHMR algorithm, utilized the GMR framework for motion retargeting, mapped human skeletons to the Unitree G1 robot, and generated reference motion sequences for training.
+  - Built an RL training framework based on BeyondMimic, conducted motion tracking training in the IsaacSim simulation environment, and monitored training results until metrics converged.
+  - Conducted sim2sim verification based on unitree_rl_lab, performed sim2real deployment after successful verification, and completed the reproduction of human dance motions.
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">UAV</div><img src='images/experience1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   - *2024.06 - 2024.08*  
